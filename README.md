@@ -22,4 +22,3 @@
 - 🔭 Atualmente Office-boy na Secretaria da Fazenda do RS.
 - 🌱 Desenvolvendo experiências para entrar no mercado.
 - 🤔 Estou à procura de emprego como dev júnior.
-- 📫 Contate-me no email: devbrunosantos@gmail.com
