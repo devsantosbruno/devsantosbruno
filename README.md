@@ -1,5 +1,5 @@
 ### Whats up! My name is **Bruno Santos**
-#### I'm an enthusiastic software developer and team leader. 👨‍💻
+#### I am an enthusiastic software developer and team leader. 👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsantosbruno/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbrunosantos@gmail.com?subject=Contato%20via%20perfil%20GitHub)
@@ -25,9 +25,9 @@
   <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=black">
   <img align="center" alt="Radix" src="https://img.shields.io/badge/Radix%20UI-161618?logo=radixui&logoColor=fff&style=for-the-badge">
+  <img align="center" alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=black">
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
   <img align="center" alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -50,6 +50,9 @@
   <img align="center" alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img align="center" alt="WordPress" src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white">
   <img align="center" alt="Apache Cordova" src="https://img.shields.io/badge/Apache%20Cordova-E8E8E8?logo=apachecordova&logoColor=000&style=for-the-badge">
+  <img align="center" alt="PNPM" src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=for-the-badge">
+  <img align="center" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge">
+  <img align="center" alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -77,14 +80,28 @@
 ### Interests
 <div>
   <img align="center" alt="ThreeJS" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
-  <img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
-  <img align="center" alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
-  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Fast API" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
+  <img align="center" alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
   <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
-  
-  ##
+
+##
+
+### Work Experience
+[<img align="left" height="94px" width="94px" alt="Hero99" src="https://media.licdn.com/dms/image/C4D0BAQErqcJKapUclg/company-logo_200_200/0/1630523409360/hero99_logo?e=1708560000&v=beta&t=jFIAEeuK5-taOSwGy2ZtnD7k_FlRSJOSi4zMCH4Rm-c"/>](https://hero99.com.br/)
+
+**Software Developer** \
+[**Hero99**](https://hero99.com.br/) • Full-time • *Currently*\
+Main Tecnologies: `TypeScript` `ReactJS` `React Native` `NextJS` `Redux`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4E0BAQEuT9eRnOvfvw/company-logo_200_200/0/1643747813674/agencias3_logo?e=1708560000&v=beta&t=e7kWwmEus1o33gQu8UL3-x8TLnTZiH7bbWl2tUGIqBE"/>](https://www.agencias3.com.br/)
+
+**Front-end Developer** \
+[**Agência S3**](https://www.agencias3.com.br/) • Full-time\
+Main Tecnologies: `JavaScript` `ReactJS` `jQuery` `Apache Cordova` `WordPress`
