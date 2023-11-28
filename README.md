@@ -100,7 +100,14 @@
 Main Tecnologies: `TypeScript` `ReactJS` `React Native` `NextJS` `Redux`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4E0BAQEuT9eRnOvfvw/company-logo_200_200/0/1643747813674/agencias3_logo?e=1708560000&v=beta&t=e7kWwmEus1o33gQu8UL3-x8TLnTZiH7bbWl2tUGIqBE"/>](https://www.agencias3.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rethink" src="https://miro.medium.com/v2/resize:fill:176:176/1*bmZSz-hVXRw3IrSohfLHmA.png"/>](https://rethink.dev/)
+
+**Mobile Developer** \
+[**Rethink**](https://rethink.dev/) • Full-time\
+Main Tecnologies: `TypeScript` `React Native` `Redux` `Jest`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="S3" src="https://media.licdn.com/dms/image/C4E0BAQEuT9eRnOvfvw/company-logo_200_200/0/1643747813674/agencias3_logo?e=1708560000&v=beta&t=e7kWwmEus1o33gQu8UL3-x8TLnTZiH7bbWl2tUGIqBE"/>](https://www.agencias3.com.br/)
 
 **Front-end Developer** \
 [**Agência S3**](https://www.agencias3.com.br/) • Full-time\
