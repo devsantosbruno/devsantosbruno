@@ -103,7 +103,7 @@ Main Tecnologies: `TypeScript` `ReactJS` `React Native` `NextJS` `Redux`\
 [<img align="left" height="94px" width="94px" alt="Rethink" src="https://miro.medium.com/v2/resize:fill:176:176/1*bmZSz-hVXRw3IrSohfLHmA.png"/>](https://rethink.dev/)
 
 **Mobile Developer** \
-[**Rethink**](https://rethink.dev/) • Full-time\
+[**Rethink**](https://rethink.dev/) • Seasonal/Temporary\
 Main Tecnologies: `TypeScript` `React Native` `Redux` `Jest`\
 <br/>
 
