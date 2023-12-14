@@ -95,14 +95,14 @@
 ### Work Experience
 [<img align="left" height="94px" width="94px" alt="Hero99" src="https://media.licdn.com/dms/image/C4D0BAQErqcJKapUclg/company-logo_200_200/0/1630523409360/hero99_logo?e=1708560000&v=beta&t=jFIAEeuK5-taOSwGy2ZtnD7k_FlRSJOSi4zMCH4Rm-c"/>](https://hero99.com.br/)
 
-**Software Developer** \
+**Tech Lead** \
 [**Hero99**](https://hero99.com.br/) • Full-time • *Currently*\
 Main Tecnologies: `TypeScript` `ReactJS` `React Native` `NextJS` `Redux`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rethink" src="https://miro.medium.com/v2/resize:fill:176:176/1*bmZSz-hVXRw3IrSohfLHmA.png"/>](https://rethink.dev/)
 
-**Mobile Developer** \
+**Tech Lead** \
 [**Rethink**](https://rethink.dev/) • Seasonal/Temporary\
 Main Tecnologies: `TypeScript` `React Native` `Redux` `Jest`\
 <br/>
