@@ -93,7 +93,7 @@
 ##
 
 ### Work Experience
-[<img align="left" height="94px" width="94px" alt="Hero99" src="https://media.licdn.com/dms/image/C4D0BAQErqcJKapUclg/company-logo_200_200/0/1630523409360/hero99_logo?e=1708560000&v=beta&t=jFIAEeuK5-taOSwGy2ZtnD7k_FlRSJOSi4zMCH4Rm-c"/>](https://hero99.com.br/)
+[<img align="left" height="94px" width="94px" alt="Hero99" src="https://media.licdn.com/dms/image/C4D0BAQErqcJKapUclg/company-logo_200_200/0/1630523409360/hero99_logo?e=1720051200&v=beta&t=wxl6UOMIJ_EXFJPwKb0I9gSnz8IdERUeCrbd5ptPPH4"/>](https://hero99.com.br/)
 
 **Tech Lead** \
 [**Hero99**](https://hero99.com.br/) • Full-time • *Currently*\
@@ -102,12 +102,12 @@ Main Tecnologies: `TypeScript` `ReactJS` `React Native` `NextJS` `Redux`\
 
 [<img align="left" height="94px" width="94px" alt="Rethink" src="https://miro.medium.com/v2/resize:fill:176:176/1*bmZSz-hVXRw3IrSohfLHmA.png"/>](https://rethink.dev/)
 
-**Tech Lead** \
+**Mobile Developer** \
 [**Rethink**](https://rethink.dev/) • Seasonal/Temporary\
 Main Tecnologies: `TypeScript` `React Native` `Redux` `Jest`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="S3" src="https://media.licdn.com/dms/image/C4E0BAQEuT9eRnOvfvw/company-logo_200_200/0/1643747813674/agencias3_logo?e=1708560000&v=beta&t=e7kWwmEus1o33gQu8UL3-x8TLnTZiH7bbWl2tUGIqBE"/>](https://www.agencias3.com.br/)
+[<img align="left" height="94px" width="94px" alt="S3" src="https://media.licdn.com/dms/image/C4E0BAQEuT9eRnOvfvw/company-logo_200_200/0/1643747813674/agencias3_logo?e=1720051200&v=beta&t=ydcvBsTeLuUhLfZHdJNECooYtNZutYr-0DMajMUFu9I"/>](https://www.agencias3.com.br/)
 
 **Front-end Developer** \
 [**Agência S3**](https://www.agencias3.com.br/) • Full-time\
