@@ -55,6 +55,7 @@
   <img align="center" alt="Apache Cordova" src="https://img.shields.io/badge/Apache%20Cordova-E8E8E8?logo=apachecordova&logoColor=000&style=for-the-badge">
   <img align="center" alt="PNPM" src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=for-the-badge">
   <img align="center" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge">
+  <img align="center" alt="Bun" src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=fff&style=for-the-badge">
   <img align="center" alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
