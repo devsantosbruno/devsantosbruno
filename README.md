@@ -11,11 +11,6 @@
 
 ##
 
-### Public GitHub stats
-
-![devsantosbruno GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=devsantosbruno&theme=dracula)
-
-##
 
 ### Technologies Stack
 
@@ -94,7 +89,7 @@
 ##
 
 ### Work Experience
-[<img align="left" height="94px" width="94px" alt="Hero99" src="https://media.licdn.com/dms/image/C4D0BAQErqcJKapUclg/company-logo_200_200/0/1630523409360/hero99_logo?e=1720051200&v=beta&t=wxl6UOMIJ_EXFJPwKb0I9gSnz8IdERUeCrbd5ptPPH4"/>](https://hero99.com.br/)
+[<img align="left" height="94px" width="94px" alt="Hero99" src="https://media.licdn.com/dms/image/v2/D4D0BAQHKh3Jupd9ZLA/company-logo_200_200/company-logo_200_200/0/1714395700907/hero99_logo?e=1745452800&v=beta&t=fa2PxVU-NYe07H1OntdYHvqIrhsNfOlldQGVjUqf_7I"/>](https://hero99.com.br/)
 
 **Tech Lead** \
 [**Hero99**](https://hero99.com.br/) • Full-time • *Currently*\
@@ -108,7 +103,7 @@ Main Tecnologies: `TypeScript` `ReactJS` `React Native` `NextJS` `Redux`\
 Main Tecnologies: `TypeScript` `React Native` `Redux` `Jest`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="S3" src="https://media.licdn.com/dms/image/C4E0BAQEuT9eRnOvfvw/company-logo_200_200/0/1643747813674/agencias3_logo?e=1720051200&v=beta&t=ydcvBsTeLuUhLfZHdJNECooYtNZutYr-0DMajMUFu9I"/>](https://www.agencias3.com.br/)
+[<img align="left" height="94px" width="94px" alt="S3" src="https://media.licdn.com/dms/image/v2/D4D0BAQGxEB1I66tmsw/company-logo_200_200/company-logo_200_200/0/1719255376898?e=1745452800&v=beta&t=fyNXM5jyoWGeTkjRMsUEC9XI4bWCIXbwh2dnwd9kJmQ"/>](https://www.agencias3.com.br/)
 
 **Front-end Developer** \
 [**Agência S3**](https://www.agencias3.com.br/) • Full-time\
