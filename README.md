@@ -102,7 +102,7 @@ Main Tecnologies: `TypeScript` `React Native` `Redux`\
 
 **Tech Lead** \
 [**Hero99**](https://hero99.com.br/) • Full-time\
-Main Tecnologies: `TypeScript` `ReactJS` `React Native` `NextJS` `Redux`\
+Main Tecnologies: `TypeScript` `ReactJS` `React Native` `NextJS` `Redux` `NodeJS` `NestJS`\
 <br/>
 
 
