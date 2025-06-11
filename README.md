@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsantosbruno/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbrunosantos@gmail.com?subject=Contato%20via%20perfil%20GitHub)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/877319864220540978)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-A3E635?style=for-the-badge)](https://devbruno.me/)
 
 ##
 
