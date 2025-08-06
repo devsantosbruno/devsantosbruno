@@ -80,11 +80,18 @@
 ##
 
 ### Work Experience
+[<img align="left" height="94px" width="94px" alt="Monest" src="https://media.licdn.com/dms/image/v2/D4D0BAQH8XkWMGXihsQ/company-logo_200_200/B4DZb9l5CyG0AM-/0/1748011292087/bemonest_logo?e=1757548800&v=beta&t=5lZQDAtIecjFAcY3TH3hzS6-ejqx65ZlB9VEbbKpFU4"/>](https://iacobranca.monest.com.br/)
 
-[<img align="left" height="94px" width="94px" alt="Hero99" src="https://media.licdn.com/dms/image/v2/C4E0BAQEFniGAkYpe5g/company-logo_200_200/company-logo_200_200/0/1634859192401/husky_logistica_logo?e=1754524800&v=beta&t=mE-guyV5ynl8FUUME6xIsI1VPnbFHSMDtRrWo8z86p0"/>](https://gohusky.net/)
+**Software Developer** \
+[**Monest**](https://iacobranca.monest.com.br/) • Full-time • *Currently*\
+Main Tecnologies: `TypeScript` `Nest` `BullMQ` `Redis`\
+<br/>
+
+
+[<img align="left" height="94px" width="94px" alt="Husky" src="https://media.licdn.com/dms/image/v2/C4E0BAQEFniGAkYpe5g/company-logo_200_200/company-logo_200_200/0/1634859192401/husky_logistica_logo?e=1754524800&v=beta&t=mE-guyV5ynl8FUUME6xIsI1VPnbFHSMDtRrWo8z86p0"/>](https://gohusky.net/)
 
 **Mobile Developer** \
-[**Husky**](https://gohusky.net/) • Full-time • *Currently*\
+[**Husky**](https://gohusky.net/) • Full-time\
 Main Tecnologies: `TypeScript` `React Native` `Redux`\
 <br/>
 
@@ -93,15 +100,15 @@ Main Tecnologies: `TypeScript` `React Native` `Redux`\
 
 **Mobile Developer** \
 [**Rethink**](https://rethink.dev/) • Seasonal/Temporary\
-Main Tecnologies: `TypeScript` `React Native` `Redux` `Jest`\
+Main Tecnologies: `TypeScript` `React Native` `Redux`\
 <br/>
 
 
 [<img align="left" height="94px" width="94px" alt="Hero99" src="https://media.licdn.com/dms/image/v2/D4D0BAQHKh3Jupd9ZLA/company-logo_200_200/company-logo_200_200/0/1714395700907/hero99_logo?e=2147483647&v=beta&t=F22z-5BB_8f-PR-9kb158mrG-VtimgvCg-fpG9f8w80"/>](https://hero99.com.br/)
 
-**Tech Lead** \
+**Software Developer** \
 [**Hero99**](https://hero99.com.br/) • Full-time\
-Main Tecnologies: `TypeScript` `ReactJS` `React Native` `NextJS` `Redux` `NodeJS` `NestJS`\
+Main Tecnologies: `TypeScript` `React Native` `NextJS` `NestJS`\
 <br/>
 
 
@@ -109,4 +116,4 @@ Main Tecnologies: `TypeScript` `ReactJS` `React Native` `NextJS` `Redux` `NodeJS
 
 **Front-end Developer** \
 [**Agência S3**](https://agencias3.com.br/) • Full-time\
-Main Tecnologies: `JavaScript` `ReactJS` `jQuery` `Apache Cordova` `WordPress`
+Main Tecnologies: `React` `jQuery` `Apache Cordova` `WordPress`
