@@ -15,19 +15,15 @@
 ### Technologies Stack
 
 <div>
-  <img align="center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img align="center" alt="Socket.IO" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
-  <img align="center" alt="Stripe" src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=for-the-badge">
-  <img align="center" alt="ThreeJS" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
-  <img align="center" alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white">
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-  <img align="center" alt="Fastify" src="https://img.shields.io/badge/fastify-dev?style=for-the-badge&logo=fastify&logoColor=black%22">
-  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img align="center" alt="Redis" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img align="center" alt="BullMQ" src="https://img.shields.io/badge/bullmq-4A90E2?style=for-the-badge&logo=redbull&logoColor=000000">
+  <img align="center" alt="Knex" src="https://img.shields.io/badge/knex-FDB512?style=for-the-badge&logo=knexdotjs&logoColor=black">
+  <img align="center" alt="LangChain" src="https://img.shields.io/badge/langchain-1C3144?style=for-the-badge&logo=langchain&logoColor=white">
 </div>
 
 ##
@@ -53,15 +49,15 @@
 ##
 
 ### Work Experience
-[<img align="left" height="94px" width="94px" alt="Monest" src="https://media.licdn.com/dms/image/v2/D4D33AQGDO7ATUAj24w/productpage-logo-image_200_200/B4DZcMqAlsGwAI-/0/1748264029773/bemonest_mia_monest_inteligncia_artificial_logo?e=1758330000&v=beta&t=32_QnH-2XJOxhEH87ekGmrKmPqbXSSDECsDSNwIhQFs"/>](https://iacobranca.monest.com.br/)
+[<img align="left" height="94px" width="94px" alt="Monest" src="https://media.licdn.com/dms/image/v2/D4D0BAQH8XkWMGXihsQ/company-logo_200_200/B4DZb9l5CyG0AM-/0/1748011292087/bemonest_logo?e=1767225600&v=beta&t=3jn6kNPcRXDmXDSL8LutwEZJJYnzpcigrDFZXpdDnMc"/>](https://iacobranca.monest.com.br/)
 
 **Software Developer** \
 [**Monest**](https://iacobranca.monest.com.br/) • Full-time • *Currently*\
-Main Tecnologies: `TypeScript` `Nest` `BullMQ` `Redis`\
+Main Tecnologies: `TypeScript` `Nest` `BullMQ` `Redis` `Knex` `LangChain`\
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="Husky" src="https://media.licdn.com/dms/image/v2/C4E0BAQEFniGAkYpe5g/company-logo_200_200/company-logo_200_200/0/1634859192401/husky_logistica_logo?e=1760572800&v=beta&t=MbM-BcFfTQEItEYZvKuOISdydMVBiyJx-b05a6sbtgQ"/>](https://gohusky.net/)
+[<img align="left" height="94px" width="94px" alt="Husky" src="https://media.licdn.com/dms/image/v2/C4E0BAQEFniGAkYpe5g/company-logo_200_200/company-logo_200_200/0/1634859192401/husky_logistica_logo?e=1767225600&v=beta&t=4LSeZY9YoE6wS_o0hyVhu6LmfpMko7c9f0sjUvvGDy4"/>](https://gohusky.net/)
 
 **Mobile Developer** \
 [**Husky**](https://gohusky.net/) • Full-time\
@@ -85,7 +81,7 @@ Main Tecnologies: `TypeScript` `React Native` `NextJS` `NestJS`\
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="S3" src="https://media.licdn.com/dms/image/v2/D4D0BAQGxEB1I66tmsw/company-logo_100_100/company-logo_100_100/0/1719257470792?e=1760572800&v=beta&t=ECUpE3z00bk4INuA4Ygpn0jaNwvlT58HNzYkDZeSLs0"/>](https://www.agencias3.com.br/)
+[<img align="left" height="94px" width="94px" alt="S3" src="https://media.licdn.com/dms/image/v2/D4D0BAQGxEB1I66tmsw/company-logo_200_200/company-logo_200_200/0/1719255376898?e=1767225600&v=beta&t=YV5wACxqTDs39UYovmWV435XHUcHxpBOMD5T3kg4ljU"/>](https://www.agencias3.com.br/)
 
 **Front-end Developer** \
 [**Agência S3**](https://agencias3.com.br/) • Full-time\
