@@ -40,24 +40,21 @@
 
 ### Interests
 <div>
-  <img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
-  <img align="center" alt="Fast API" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
-  <img align="center" alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
   <img align="center" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 </div>
 
 ##
 
 ### Work Experience
-[<img align="left" height="94px" width="94px" alt="Monest" src="https://media.licdn.com/dms/image/v2/D4D0BAQH8XkWMGXihsQ/company-logo_200_200/B4DZb9l5CyG0AM-/0/1748011292087/bemonest_logo?e=1767225600&v=beta&t=3jn6kNPcRXDmXDSL8LutwEZJJYnzpcigrDFZXpdDnMc"/>](https://iacobranca.monest.com.br/)
+[<img align="left" height="94px" width="94px" alt="Monest" src="https://instagram.fpoa33-2.fna.fbcdn.net/v/t51.2885-19/485231499_1044470774182616_1942821787529820473_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc4LmMyIn0&_nc_ht=instagram.fpoa33-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QHtvztNo4S0btMDtKADmwSqFMauf-ntQ4BA0-DZuTUOKe2nfP0x6nZXFB8QD7CZmdpMzx405uQLzmy6mj9ZlsJf&_nc_ohc=V1NlZkGzNHoQ7kNvwEJT4Zy&_nc_gid=-NWnU0BHGxuY4RFbRjmf-w&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfubRidJMipsGrjllBAqfMbSWcOqR-Q0PaZ2XR0ZwiL6_w&oe=69A7712F&_nc_sid=7a9f4b"/>](https://monest.com.br/)
 
 **Software Developer** \
-[**Monest**](https://iacobranca.monest.com.br/) • Full-time • *Currently*\
+[**Monest**](https://monest.com.br/) • Full-time • *Currently*\
 Main Tecnologies: `TypeScript` `Nest` `BullMQ` `Redis` `Knex` `LangChain`\
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="Husky" src="https://media.licdn.com/dms/image/v2/C4E0BAQEFniGAkYpe5g/company-logo_200_200/company-logo_200_200/0/1634859192401/husky_logistica_logo?e=1767225600&v=beta&t=4LSeZY9YoE6wS_o0hyVhu6LmfpMko7c9f0sjUvvGDy4"/>](https://gohusky.net/)
+[<img align="left" height="94px" width="94px" alt="Husky" src="https://instagram.fpoa33-1.fna.fbcdn.net/v/t51.2885-19/488851842_1163517365244601_2443554626215735824_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=instagram.fpoa33-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFJ0fCjcu8DB8FhUkqP0Mf_seB_RVh0_-n9hrlzlFsSO7DP67yi--5lBxLDWG5ZsgQVOLWwUnDMFSZtstdQDNQp&_nc_ohc=KxrjKZXFmJUQ7kNvwFNBY52&_nc_gid=-MTh6iUD4It85Xyi-gI4YA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfvRXpnFMMGNCxXMWG-HUqxHvAS1xthoh5FFFnp69ET8yA&oe=69A778ED&_nc_sid=7a9f4b"/>](https://gohusky.net/)
 
 **Mobile Developer** \
 [**Husky**](https://gohusky.net/) • Full-time\
@@ -81,7 +78,7 @@ Main Tecnologies: `TypeScript` `React Native` `NextJS` `NestJS`\
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="S3" src="https://media.licdn.com/dms/image/v2/D4D0BAQGxEB1I66tmsw/company-logo_200_200/company-logo_200_200/0/1719255376898?e=1767225600&v=beta&t=YV5wACxqTDs39UYovmWV435XHUcHxpBOMD5T3kg4ljU"/>](https://www.agencias3.com.br/)
+[<img align="left" height="94px" width="94px" alt="S3" src="https://instagram.fpoa33-2.fna.fbcdn.net/v/t51.2885-19/447918315_773904431520416_7033558726689119587_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=instagram.fpoa33-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QHSSTaZMF5HOi4vODp6euN_o3vAOxoPv6HKjrEuo_k4GbfDXVwcGBEeRe-TFyEjtT2KzptduOu5mUaUGIfYsc-X&_nc_ohc=5xL8a6LbvIkQ7kNvwE_y_sS&_nc_gid=7rUKedM-5f_S9LNgERJKJA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AftaTfoeYE4NxVg8KozxQydV30WXb_B_svo5YPguh12oDg&oe=69A7712F&_nc_sid=8b3546"/>](https://www.agencias3.com.br/)
 
 **Front-end Developer** \
 [**Agência S3**](https://agencias3.com.br/) • Full-time\
