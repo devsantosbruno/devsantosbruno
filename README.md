@@ -17,12 +17,9 @@
 <div>
   <img align="center" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img align="center" alt="Redis" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   <img align="center" alt="BullMQ" src="https://img.shields.io/badge/bullmq-4A90E2?style=for-the-badge&logo=redbull&logoColor=000000">
-  <img align="center" alt="Knex" src="https://img.shields.io/badge/knex-FDB512?style=for-the-badge&logo=knexdotjs&logoColor=black">
   <img align="center" alt="LangChain" src="https://img.shields.io/badge/langchain-1C3144?style=for-the-badge&logo=langchain&logoColor=white">
 </div>
 
