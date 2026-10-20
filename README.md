@@ -1,13 +1,10 @@
 ### Whats up! My name is **Bruno**!
-#### I am an enthusiastic software engineer. 👨‍💻
+#### I am an Software Engineer. Working from home to worldwide!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsantosbruno/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbrunosantos@gmail.com?subject=Contato%20via%20perfil%20GitHub)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-A3E635?style=for-the-badge)](https://devbruno.me/)
 
-##
-
-#### Working from home to worldwide! 🌎
 
 ##
 
